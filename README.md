@@ -1,1 +1,1 @@
-# Image-Captioning
+# Image Content Descriptor
